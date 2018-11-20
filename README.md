@@ -4,7 +4,7 @@ alphacrypt.rs
 <br>TODO (maybe): build it out into a CLI application or web app with WASM.
 <hr>
 mean_median_mode.rs
-<br> Going through The Rust Book: https://doc.rust-lang.org/book/2018-edition/
+<br> knowledge is power
 <hr>
 igpay_atinlay.rs
 <br> piglatin encryption alg for top secret stuff
