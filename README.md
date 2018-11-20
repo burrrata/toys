@@ -5,3 +5,6 @@ alphacrypt.rs
 <hr>
 mean_median_mode.rs
 <br> Going through The Rust Book: https://doc.rust-lang.org/book/2018-edition/
+<hr>
+igpay_atinlay.rs
+<br> piglatin encryption alg for top secret stuff
