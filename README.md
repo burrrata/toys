@@ -7,3 +7,6 @@ mean_median_mode.rs
 <hr>
 igpay_atinlay.rs
 <br>- Pig Latin encryption alg for top secret stuff.
+<hr>
+fizzbuzz.rs & dynamic_fizzbuzz.rs
+<br>- Pretty much the most awesome programs ever.
